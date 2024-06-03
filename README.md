@@ -1,2 +1,2 @@
-Taller de Programación en C: Bucle for, while, do while
-\nEstudiante: Ana Panamito 
+Taller de Programación en C: Bucle for, while, do while\n
+Estudiante: Ana Panamito 
