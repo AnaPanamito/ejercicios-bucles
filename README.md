@@ -1,6 +1,6 @@
 **Estudiante: Ana Panamito**
-Objetivo:Desarrollar habilidades en la programación de bucles en C, resolviendo una variedad de problemas utilizando los bucles for, while y do while. A continuacion los EJERCICIOS 
 
+Objetivo:Desarrollar habilidades en la programación de bucles en C, resolviendo una variedad de problemas utilizando los bucles for, while y do while. A continuacion los EJERCICIOS 
 **1. Suma de los dígitos de un número** Descripción: Dado un número, calcular la suma de sus dígitos.
 Ejemplo:12567->1+2+5+6+7=21
 
