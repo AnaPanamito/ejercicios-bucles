@@ -4,8 +4,6 @@ Desarrollar habilidades en la programación de bucles en C, resolviendo una vari
 
 Instrucciones:
 
-A continuación se presentan una serie de problemas que deberán resolverse utilizando tres estructuras de control de bucle: for, while y do while. Cada problema deberá ser resuelto de tres maneras diferentes, completando un total de 20 ejercicios.
-
 Problemas:
 
 **1. Suma de los dígitos de un número**
