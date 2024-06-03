@@ -1,4 +1,4 @@
-Estudiante: Ana Panamito
+**Estudiante: Ana Panamito**
 Objetivo:Desarrollar habilidades en la programación de bucles en C, resolviendo una variedad de problemas utilizando los bucles for, while y do while. A continuacion los EJERCICIOS 
 
 **1. Suma de los dígitos de un número** Descripción: Dado un número, calcular la suma de sus dígitos.
@@ -220,5 +220,5 @@ While: https://github.com/AnaPanamito/ejercicios-bucles/blob/0196a301b5c08daadb2
 Do While: https://github.com/AnaPanamito/ejercicios-bucles/blob/0196a301b5c08daadb2f5d7c9e033794af20df85/20%20ejer%20do%20while/ejercicio20.c
 
 
-**Estudiante: Ana Panamito** 
+
 
